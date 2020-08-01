@@ -1,0 +1,17 @@
+Amazon:
+  accounts:
+    - abc@gmail.com: EJCO324TR4KCPSGR
+Amazon Web Services:
+  alias: aws
+  accounts:
+    - myuser: GZBTHCYO5DWMHVMI
+    - root: EQF5MDZFBUTFM4AD
+GitHub:
+  accounts:
+    - example@email.com: V7VU5M336VMW7ZQX
+    - abc@gmail.com: X5IPLL76KTEKP24J
+Google:
+  accounts:
+    - abc@gmail.com: G654U2GGSO3T4RSI
+    - 123@gmail.com: KILLKXQT3W56M66L
+
